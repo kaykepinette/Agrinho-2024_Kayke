@@ -1,17 +1,4 @@
-:root {
-    background-color: rgb(64, 164, 25);
-}
-
-.background {
-background-color: rgb(38, 164, 29);
-}
-
-.titulo {
-    font-size: 20px;
-    width: 100;
-}
-
-.texto{
- font-size: 20px;
- width: 300;
+*{
+    margin: 0;
+    padding: 0;
 }
